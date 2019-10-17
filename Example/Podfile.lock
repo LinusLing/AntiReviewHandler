@@ -1,0 +1,16 @@
+PODS:
+  - AntiReviewHandler (0.1.0)
+
+DEPENDENCIES:
+  - AntiReviewHandler (from `../`)
+
+EXTERNAL SOURCES:
+  AntiReviewHandler:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AntiReviewHandler: 726ec73c7c79b937856d4a2679fffd03e3930734
+
+PODFILE CHECKSUM: 083a691752329e09321ac37c90d51721be43c71e
+
+COCOAPODS: 1.8.3

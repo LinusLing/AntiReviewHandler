@@ -1,0 +1,6 @@
+framework module AntiReviewHandler {
+  umbrella header "AntiReviewHandler-umbrella.h"
+
+  export *
+  module * { export * }
+}

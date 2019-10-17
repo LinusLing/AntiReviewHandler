@@ -1,0 +1,6 @@
+framework module Pods_AntiReviewHandler_Tests {
+  umbrella header "Pods-AntiReviewHandler_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
